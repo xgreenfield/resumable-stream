@@ -1,6 +1,6 @@
 {
   "name": "@xgreenfield/resumable-stream",
-  "version": "2.3.2",
+  "version": "2.3.6",
   "description": "Library for resuming and following streams in distributed systems",
   "main": "dist/index.js",
   "files": [

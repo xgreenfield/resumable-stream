@@ -4,6 +4,7 @@ import { createPublisherAdapter, createSubscriberAdapter } from "./upstash-adapt
 
 export * from "./types";
 export { resumeStream } from "./runtime";
+export { createPublisherAdapter, createSubscriberAdapter };
 
 /**
  * Creates a global context for resumable streams from which you can create resumable streams.
